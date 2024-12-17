@@ -1,0 +1,5 @@
+streamlit #Framework web con el que venimos trabajando
+mysql-connector-python #Conecta MySQL con Python
+pandas #Sirve para visualizar DataFrames
+plotly #Nos permite crear gráficos interactivos
+python-dotenv #Podemos crear un archivo para guardar nuestras credenciales de conexión
